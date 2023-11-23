@@ -17,6 +17,7 @@ body {
     background: -webkit-linear-gradient(to right, #ffc536, #fcab18); /* Safari e Chrome */
     background: -moz-linear-gradient(to right, #ffc536, #fcab18); /* Firefox */
     background: -o-linear-gradient(to right, #ffc536, #fcab18); /* Opera */
+    background-size: cover;
     display: flex;
     justify-content: center;
     align-items: center;
